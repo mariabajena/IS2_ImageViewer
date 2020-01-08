@@ -36,7 +36,7 @@ public class Main extends JFrame {
     }
 
     private JPanel imagePanel() {
-        Image image = new FileImageLoader("c:/images").load();
+        Image image = new FileImageLoader("images").load();
         PanelImageDisplay panel = new PanelImageDisplay();
         this.imageDisplay = panel;
         panel.show(image);
