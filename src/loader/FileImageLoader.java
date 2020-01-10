@@ -1,5 +1,6 @@
-package imageviewer2;
+package loader;
 
+import model.Image;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;

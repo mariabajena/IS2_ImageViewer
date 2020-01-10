@@ -1,4 +1,4 @@
-package imageviewer2;
+package model;
 
 public interface Image {
     public String name();

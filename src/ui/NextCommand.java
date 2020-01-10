@@ -1,4 +1,6 @@
-package imageviewer2;
+package ui;
+
+import ui.ImageDisplay;
 
 public class NextCommand implements Command {
     

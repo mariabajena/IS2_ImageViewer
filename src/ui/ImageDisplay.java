@@ -1,4 +1,6 @@
-package imageviewer2;
+package ui;
+
+import model.Image;
 
 public interface ImageDisplay {
     

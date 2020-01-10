@@ -1,4 +1,4 @@
-package imageviewer2;
+package ui;
 
 public interface Command {
     

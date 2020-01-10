@@ -1,4 +1,6 @@
-package imageviewer2;
+package loader;
+
+import model.Image;
 
 public interface ImageLoader {
     

@@ -1,5 +1,12 @@
-package imageviewer2;
+package controller;
 
+import ui.Command;
+import loader.FileImageLoader;
+import model.Image;
+import ui.ImageDisplay;
+import ui.NextCommand;
+import ui.PanelImageDisplay;
+import ui.PrevCommand;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.PopupMenu;

@@ -1,5 +1,7 @@
-package imageviewer2;
+package ui;
 
+import ui.ImageDisplay;
+import model.Image;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Rectangle;
